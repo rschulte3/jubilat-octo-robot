@@ -7,14 +7,14 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:       name 1:
-       * GitHub username 2:       name 2:
-       * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
-       * GitHub username 5:       name 5:
+       * GitHub username 1: rschulte3       name 1: Ryan Schulte
+       * GitHub username 2: cbiebel       name 2: Colin Biebel
+       * GitHub username 3: ngordillo     name 3: Nicolas Gordillo
+       * GitHub username 4: RAFirebaugh      name 4: Raymond Firebaugh
    * When did you complete this exercise? 
+From 4 to 5:30 on October 29
    * How long did it take your team to complete this exercise? 
-
+It took 1.5 hours. 
 ## Table of Contents
 
 1. README.md - overview of files in this repository (this file)
